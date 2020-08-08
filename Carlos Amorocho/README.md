@@ -16,5 +16,5 @@ haciendo ejercicio físico en las horas de entrenamiento del equipo.
 * Madrugar
 * El futbol
 
-![Screenshot](Main.png)
-![Screenshot](Remote.png)
+
+![Main learn git](https://raw.githubusercontent.com/Carlos96999/CVDS/master/Carlos Amorocho/Main.png)
