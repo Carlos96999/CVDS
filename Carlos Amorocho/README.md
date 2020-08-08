@@ -16,4 +16,5 @@ haciendo ejercicio físico en las horas de entrenamiento del equipo.
 * Madrugar
 * El futbol
 
-![alt text](https://gilbertcolombia.com/wp-content/uploads/2019/11/Gilbert-Colombia-Bal%C3%B3n-de-Rugby-r%C3%A9plica-Inglaterra.jpg)
+![Screenshot](Main.png)
+![Screenshot](Remote.png)
