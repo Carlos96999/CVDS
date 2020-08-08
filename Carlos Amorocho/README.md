@@ -17,4 +17,4 @@ haciendo ejercicio físico en las horas de entrenamiento del equipo.
 * El futbol
 
 
-![Main learn git](https://raw.githubusercontent.com/Carlos96999/CVDS/master/Carlos Amorocho/Main.png)
+![Main learn git](https://raw.githubusercontent.com/Carlos96999/CVDS/master/Carlos_Amorocho/Main.png)
